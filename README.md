@@ -7,9 +7,9 @@ I’m passionate about creating intelligent systems and exploring how machine le
 ---
 
 ### 🚀 Tech Stack  
-**Languages:** Python, JavaScript  
-**Frameworks & Tools:** TensorFlow, PyTorch, React, Node.js, Git, VS Code  
-**Areas of Interest:** Machine Learning, Deep Learning, Data Science, Web Development  
+**Languages:** Python, JavaScript, C, Java  
+**Frameworks & Tools:** TensorFlow, PyTorch, React, Node.js, MongoDB, TypeScript, Express.js, Git, Kaggle, VS Code  
+**Areas of Interest:** Machine Learning, Deep Learning, Data Science, Web Development, Problem Solving, Research in Computer Vision  
 
 ---
 
@@ -17,6 +17,7 @@ I’m passionate about creating intelligent systems and exploring how machine le
 
 | Project | Description |
 |----------|-------------|
+| [🧠 ResearchMate](https://github.com/asifalimran/researchmate) | A full-stack MERN (MongoDB, Express, React, Node.js) web application designed to assist researchers with paper and dataset exploration, planning, note-taking, and library management — all in one platform. <br><br> 🚀 **Features** <br> 🔐 User Authentication (Register/Login with JWT) <br> 📚 Explore Papers (Search academic papers) <br> 📊 Explore Datasets (Search and access datasets) <br> 🧭 Research Guide (Step-by-step assistant for planning) <br> 📌 Research Plan Management (Create, update, and track research plans) <br> 💾 Saved Paper Library (Tag, rate, and take notes on saved papers) <br><br> 🛠️ **Tech Stack** <br> **Frontend:** React.js, TypeScript, Tailwind CSS, React Router, Axios, Lucide Icons <br> **Backend:** Node.js, Express.js, MongoDB + Mongoose, JWT, dotenv, bcrypt.js |
 | [🌾 Rice Leaf Disease Detection](https://github.com/asifalimran/rice-leaf-disease-detection) | Uses CNN and GAN-based augmentation to detect rice leaf diseases. |
 
 ---
@@ -29,6 +30,5 @@ I’m passionate about creating intelligent systems and exploring how machine le
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourname@example.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/asif-al-imran-0a4490207)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifalimran838@gmail.com)
