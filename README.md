@@ -23,8 +23,8 @@ I’m passionate about creating intelligent systems and exploring how machine le
 
 ### 📊 GitHub Stats  
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifalimran&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifalimran&layout=compact&theme=radical)
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asif-Al-Imran&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Al-Imran&layout=compact&theme=radical)
 
 ---
 
